@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-08-11)
+## Unreleased (2025-08-27)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`b33ec59`](https://github.com/stdlib-js/stdlib/commit/b33ec59f183293ed7a357db25b00e9fae40337ae) - **docs:** fix hyphenation _(by Athan Reines)_
 -   [`2533a1b`](https://github.com/stdlib-js/stdlib/commit/2533a1bcd188c2d5f5d6c2bf085a960021b4e99a) - **feat:** add `stats/base/ndarray/smean` [(#7823)](https://github.com/stdlib-js/stdlib/pull/7823) _(by Gururaj Gurram)_
 
 </details>
@@ -34,8 +35,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Gururaj Gurram
 
 </section>
