@@ -16,12 +16,23 @@
 
 <!-- /.features -->
 
+<section class="bug-fixes">
+
+### Bug Fixes
+
+-   [`ebbf2de`](https://github.com/stdlib-js/stdlib/commit/ebbf2de9f235cc98990c0cd3b020beac567667fa) - pass const qualified views [(#14052)](https://github.com/stdlib-js/stdlib/pull/14052)
+
+</section>
+
+<!-- /.bug-fixes -->
+
 <section class="commits">
 
 ### Commits
 
 <details>
 
+-   [`ebbf2de`](https://github.com/stdlib-js/stdlib/commit/ebbf2de9f235cc98990c0cd3b020beac567667fa) - **fix:** pass const qualified views [(#14052)](https://github.com/stdlib-js/stdlib/pull/14052) _(by Philipp Burckhardt, Athan Reines)_
 -   [`5ca7350`](https://github.com/stdlib-js/stdlib/commit/5ca73502c25e79cf39e6a2eb338c1dd7d18b923b) - **feat:** add C implementation for `stats/base/ndarray/smean` [(#10090)](https://github.com/stdlib-js/stdlib/pull/10090) _(by Atharva Patange, Athan Reines, Sachin Pangal)_
 -   [`5f56aa5`](https://github.com/stdlib-js/stdlib/commit/5f56aa58c2050ea8301fd1534a43e8660d147425) - **chore:** modernize examples and benchmarks _(by Athan Reines)_
 -   [`9a51841`](https://github.com/stdlib-js/stdlib/commit/9a51841213eb13adbd6b8fe36d96c00aac9fbb17) - **bench:** refactor to use string interpolation in `stats/base` [(#11393)](https://github.com/stdlib-js/stdlib/pull/11393) _(by Karan Anand)_
@@ -36,11 +47,12 @@
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Atharva Patange
 -   Karan Anand
+-   Philipp Burckhardt
 -   Sachin Pangal
 
 </section>
